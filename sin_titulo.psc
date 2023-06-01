@@ -1,3 +1,3 @@
-Proceso sin_titulo
+Proceso ejemplo
 	Escribir "lol"
 FinProceso
